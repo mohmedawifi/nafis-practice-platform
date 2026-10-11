@@ -75,9 +75,10 @@
 
 
 ### Training Selection
-قائمة التدريبات
+دخول المعلم
 
-### Quiz Interface
+
+### Teacher Login
 واجهة الأسئلة
 
 ### Instant Feedback
