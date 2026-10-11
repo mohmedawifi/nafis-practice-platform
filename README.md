@@ -76,6 +76,8 @@
 
 ### Training Selection
 قائمة التدريبات
+<img width="1890" height="945" alt="image" src="https://github.com/user-attachments/assets/ee160238-986c-4eb5-85bc-7aec6a4c3536" />
+
 
 ### Teacher Login
 دخول المعلم
@@ -83,10 +85,12 @@
 
 
 
-واجهة الأسئلة
+
 
 ### Instant Feedback
 التصحيح الفوري
+<img width="1890" height="939" alt="image" src="https://github.com/user-attachments/assets/9ddb9c83-53cc-43d7-9e13-72cf4c1e6b8b" />
+
 
 ---
 
