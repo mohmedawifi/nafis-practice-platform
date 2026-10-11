@@ -53,7 +53,10 @@
 - نظام تسجيل دخول خاص بالمعلمة.
 - متابعة الطالبات اللاتي أكملن التدريبات.
 - عرض درجات ونتائج التدريبات.
-- إدارة الوصول باستخدام Firebase Authentication.
+- إدارة الوصول باستخدام
+- Firebase Authentication
+- <img width="1881" height="951" alt="image" src="https://github.com/user-attachments/assets/1cfe14bd-a095-4a2c-848e-742eed42836b" />
+
 
 ---
 
