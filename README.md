@@ -75,10 +75,14 @@
 
 
 ### Training Selection
-دخول المعلم
-
+قائمة التدريبات
 
 ### Teacher Login
+دخول المعلم
+<img width="1899" height="951" alt="image" src="https://github.com/user-attachments/assets/2a96822a-014d-4e31-99f6-9226b66f790d" />
+
+
+
 واجهة الأسئلة
 
 ### Instant Feedback
