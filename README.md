@@ -71,6 +71,8 @@
 
 ### Student Selection
 اختيار اسم الطالبة
+<img width="1899" height="954" alt="image" src="https://github.com/user-attachments/assets/a9cb453c-b24c-43fd-9d34-c0a9dc1bbf07" />
+
 
 ### Training Selection
 قائمة التدريبات
